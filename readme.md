@@ -1,6 +1,6 @@
 # Simple Video Calling Application using Node.js and React.js
 
-This repository contains a straightforward video calling application built using Node.js and React.js.
+This repository contains a straightforward video calling application built using Node.js and Next.js.
 
 ## Getting Started
 
