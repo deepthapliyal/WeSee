@@ -12,9 +12,9 @@ Before you begin, make sure you have the following installed on your machine:
 
 2. **npm (Node Package Manager)**: npm is installed automatically along with Node.js. To verify its installation, run the following command in your terminal:
 
-    ```sh
-    npm -v
-    ```
+ ```sh
+ npm -v
+ ```
 
 ### Clone Repository
 
