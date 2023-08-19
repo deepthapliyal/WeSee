@@ -21,7 +21,7 @@ Before you begin, make sure you have the following installed on your machine:
 Clone this repository to your local machine using the following command:
 
 ```sh
-git clone [https://github.com/deepthapliyal/Videocalling](https://github.com/deepthapliyal/WeSee)
+git clone https://github.com/deepthapliyal/WeSee
 ```
 
 Open the cloned folder in your preferred code editor.
